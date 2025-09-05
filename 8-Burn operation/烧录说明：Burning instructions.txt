@@ -1,0 +1,2 @@
+1、电脑需要安装CH340驱动程序：The computer needs to install the CH340 driver program
+2、保证供电充足，开发板电流500ma以上：Ensure sufficient power supply, with a development board current of over 500mA

@@ -1,0 +1,8 @@
+## IDF Component Manager Manifest File
+dependencies:
+  lvgl/lvgl:
+    version: 8.4.*
+    public: true
+  esp_lcd_touch_gt911: ^1
+  waveshare/esp_lcd_jd9365_10_1: ^1.0.3
+  espressif/esp_lvgl_port: "*"

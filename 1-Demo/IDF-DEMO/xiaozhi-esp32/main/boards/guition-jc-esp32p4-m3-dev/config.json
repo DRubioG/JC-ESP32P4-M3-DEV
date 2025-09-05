@@ -1,0 +1,9 @@
+{
+    "target": "esp32p4",
+    "builds": [
+        {
+            "name": "guition-jc-esp32p4-mc-dev",
+            "sdkconfig_append": []
+        }
+    ]
+}
